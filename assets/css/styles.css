@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(../images/large-scale-map-of-usa.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    font-size: 3.5rem;
+    font-family: 'Noto Serif', serif;
+    -webkit-text-fill-color: red;
+    -webkit-text-stroke: 1px gold;
+}
+
+.jumbotron{
+    margin-top: 13px;
+    background-image: url("../images/1200x240.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+.card{
+    border: 1px solid rgb(6, 51, 252);
+    margin: 20px;
+}
+
+.card-header{
+    background-color: skyblue;
+}
+
