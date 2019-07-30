@@ -14,5 +14,14 @@ Download the Train-Scheduler folder GitHub. Once the folder is downloaded,
 double click the file titled index.html (this will open in your internet browser) 
 to begin.
 
+1. Enter destination of train or bus.
+
+2. Enter name of train or bus.
+
+3. Enter the time the first one leaves the terminal.
+
+4. Enter the Frequency or average amount of time it takes to reach a stop. **Must be a number.**
+    *Example, Every "5" mins* 
+
 ## Technologies used?
 HTML5, CSS3, Java-Script, Jquery, FireBase API, MomentJS, Ajax.
