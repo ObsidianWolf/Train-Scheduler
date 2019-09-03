@@ -6,7 +6,7 @@ be of use.
 
 ## What does it do? 
 The train scheduler application incorporates Firebase to host arrival and departure data.
-It dynamically produces a timetable, on request, for a particular journey on a particular day around a particular time
+It dynamically produces a timetable, on request, for a particular journey on a day around a particular time
 and is valid for a specified period.
 
 ## How to get started?
